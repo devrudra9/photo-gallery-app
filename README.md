@@ -1,7 +1,7 @@
 # PHOTO GALLERY APP
 
-<h4> Github Link: <a>https://github.com/devrudra9/photo-gallery-app</a> </h4>
-<h4> Demo Link: <a>https://devrudra9.github.io/photo-gallery-app/</a> </h4>
+### Github Link: <a>https://github.com/devrudra9/photo-gallery-app</a>
+### Demo Link: <a>https://devrudra9.github.io/photo-gallery-app/</a>
 
 <h2> This application is made using React App </h2>
 
