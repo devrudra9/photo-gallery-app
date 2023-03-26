@@ -3,8 +3,14 @@
 ## Github Link: <a>https://github.com/devrudra9/photo-gallery-app</a>
 ## Demo Link: <a>https://devrudra9.github.io/photo-gallery-app/</a>
 
-# This application is made using React App
-## In the project directory, you can run:
+<h2> This application is made using React App </h2>
+
+<h2> Working of the application </h2>
+
+### This React Gallery App fetches images from unsplash api which is installed through npm package unsplash-js
+### Also added features are when an image is got clicked is it viewed in enlarged size and have two arrow features to go prev and next images to it.
+
+## In the project directory, you can run: 
 
 ### `npm start`
 
@@ -27,9 +33,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-# Working of the application
 
-### This React Gallery App fetches images from unsplash api which is installed through npm package unsplash-js
-### Also added features are when an image is got clicked is it viewed in enlarged size and have two arrow features to go prev and next images to it.
 
 
